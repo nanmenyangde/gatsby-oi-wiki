@@ -44,7 +44,7 @@
     "rehype-parse": "^7.0.1",
     "rehype-pseudocodejs": "file:plugins/rehype-pseudocodejs",
     "remark-details": "^2.0.2",
-    "remark-math": "^3.0.1",
+    "remark-math": "^4.0.0",
     "simple-git": "^2.31.0",
     "use-persisted-state": "^0.3.0"
   },
